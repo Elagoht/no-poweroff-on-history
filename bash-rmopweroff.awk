@@ -1,0 +1,2 @@
+!/(poweroff|shutdown|reboot|halt) ?.*/'
+
