@@ -1,2 +1,1 @@
 !/(poweroff|shutdown|reboot|halt) ?.*/'
-
